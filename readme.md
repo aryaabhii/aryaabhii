@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Kumar</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/aryaabhi/aryaabhi/master/abhijeet-banner.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/aryaabhii/aryaabhi/master/abhijeet-banner.png"> </div>
 <h3 align="center">Passionate about learning and educating others in innovation and technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryaabhii&label=Profile%20views&color=0e75b6&style=flat" alt="aryaabhii" /> </p>
