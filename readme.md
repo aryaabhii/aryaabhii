@@ -14,13 +14,13 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://kumarabhijeett.blogspot.com/)
 
-- 📝 I regularly write articles on [https://technoabhijeet84.blogspot.com/](https://technoabhijeet84.blogspot.com/)
+- 📝 I regularly write articles on [My Blog](https://technoabhijeet84.blogspot.com/)
 
 - 💬 Ask me about **Frontend, Backend, Software Development**
 
 - 📫 How to reach me **aryaabhi84@gmail.com**
 
-- 📄 Know about my experiences [View my CV](https://drive.google.com/file/d/1Cqy8abKE_fC0zH7ExL_xAoGJ-_MI2DMf/view?usp=sharing)
+- 📄 Know about my experiences [View CV](https://drive.google.com/file/d/1Cqy8abKE_fC0zH7ExL_xAoGJ-_MI2DMf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
