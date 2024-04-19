@@ -12,7 +12,7 @@
 
 - 👨🏻‍💻 I’m currently working on [ERP](https://www.uat.thobooking.com) 
 
-- 👨‍💻 All of my projects are available at [https://kumarabhijeett.blogspot.com/](https://kumarabhijeett.blogspot.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kumarabhijeett.blogspot.com/)
 
 - 📝 I regularly write articles on [https://technoabhijeet84.blogspot.com/](https://technoabhijeet84.blogspot.com/)
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **aryaabhi84@gmail.com**
 
-- 📄 Know about my experiences [Check](https://drive.google.com/file/d/1Cqy8abKE_fC0zH7ExL_xAoGJ-_MI2DMf/view?usp=sharing)
+- 📄 Know about my experiences [View my CV](https://drive.google.com/file/d/1Cqy8abKE_fC0zH7ExL_xAoGJ-_MI2DMf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
