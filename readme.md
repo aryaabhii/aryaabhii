@@ -12,7 +12,7 @@
 
 - 👨🏻‍💻 I’m currently working on [ERP]() 
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://kumarabhijeett.blogspot.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://abhijeet-kumar.vercel.app/)
 
 - 📝 I regularly write articles on [My Blog](https://technoabhijeet84.blogspot.com/)
 
