@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **aryaabhi84@gmail.com**
 
-- 📄 Know about my experiences [View CV](https://drive.google.com/file/d/1Cqy8abKE_fC0zH7ExL_xAoGJ-_MI2DMf/view?usp=sharing)
+- 📄 Know about my experiences [View CV](https://abhijeet-kumar.vercel.app/assets/doc/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
