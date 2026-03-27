@@ -6,11 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryaabhii" alt="aryaabhii" /></a> </p>
 
-- 🔭 I’m currently working with [Total Holiday Options]()
-
-- 🌱 I’m currently learning **Express, React, Node, MongoDB, Api's**
-
-- 👨🏻‍💻 I’m currently working on [ERP]() 
+- 🔭 I’m currently working with [Total Holiday Options] ad fullstack developer.()
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://abhijeet-kumar.vercel.app/)
 
