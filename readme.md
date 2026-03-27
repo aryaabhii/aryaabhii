@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aryaabhi84@gmail.com**
 
-- 📄 Know about my experiences [View CV](https://abhijeet-kumar.vercel.app/assets/doc/cv.pdf)
+- 📄 Know about my experiences [View CV](https://abhijeet-kumar.vercel.app/assets/doc/Abhijeet_Kumar_Full_Stack_Developer.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
