@@ -68,8 +68,7 @@ hobbies    : Writing Tech Blogs · Open Source · YouTube
 
 ### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=laravel,nodejs,php&theme=dark" />
-<br/><br/>
-<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" height="48" title="CodeIgniter" />&nbsp;
+<br/><br/>&nbsp;
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
