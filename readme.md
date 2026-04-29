@@ -1,21 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abhijeet%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Educator&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abhijeet%20Kumar&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Educator&descAlignY=60&descSize=18&animation=fadeIn" />
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aryaabhii/aryaabhi/master/abhijeet-banner.png" width="100%" />
+</div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/aryaabhii/aryaabhi/master/abhijeet-banner.png" width="100%" style="border-radius: 10px;" />
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+seamless+web+experiences+%F0%9F%92%BB;Passionate+about+Open+Source+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+seamless+web+experiences+%F0%9F%92%BB;Passionate+about+Open+Source+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%8C%B1)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=aryaabhii&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<a href="https://abhijeet-kumar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=A78BFA" /></a>
-&nbsp;
+<img src="https://komarev.com/ghpvc/?username=aryaabhii&label=Profile+Views&color=7c3aed&style=for-the-badge" />
+&nbsp;&nbsp;
+<a href="https://abhijeet-kumar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=A78BFA&labelColor=0d1117" /></a>
+&nbsp;&nbsp;
 <a href="mailto:aryaabhi84@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
@@ -33,7 +37,7 @@ focus      : Frontend · Backend · Software Architecture
 hobbies    : Writing Tech Blogs · Open Source · YouTube
 ```
 
-> *"Passionate about learning and educating others in innovation and technology."*
+> 💬 *"Passionate about learning and educating others in innovation and technology."*
 
 ---
 
@@ -46,9 +50,9 @@ hobbies    : Writing Tech Blogs · Open Source · YouTube
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/abhijeet_9973/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/abhijeet9973/)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/abhi9973)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18514217/abhijeet-kumar)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aryaabhi84)
-[![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white)](https://technoabhijeet84.blogspot.com/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18514217/abhijeet-kumar)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aryaabhi84)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://technoabhijeet84.blogspot.com/)
 
 </div>
 
@@ -56,30 +60,38 @@ hobbies    : Writing Tech Blogs · Open Source · YouTube
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="center">
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+**🎨 Frontend**
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 💡 Languages & Tools
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**⚙️ Backend**
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+**🗄️ Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**💡 Languages & Tools**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
@@ -87,16 +99,25 @@ hobbies    : Writing Tech Blogs · Open Source · YouTube
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryaabhii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaabhii&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA" width="49%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryaabhii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github&count_private=true" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaabhii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaabhii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="40%" />
+<br/>
 
-<br/><br/>
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryaabhii&bg_color=0d1117&color=A78BFA&line=7c3aed&point=ffffff&area=true&hide_border=true" width="98%" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryaabhii&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryaabhii&bg_color=0d1117&color=A78BFA&line=7c3aed&point=A78BFA&area=true&area_color=302b63&hide_border=true&custom_title=Abhijeet's%20Contribution%20Graph" />
 
 </div>
 
@@ -106,7 +127,7 @@ hobbies    : Writing Tech Blogs · Open Source · YouTube
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryaabhii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=aryaabhii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
 </div>
 
