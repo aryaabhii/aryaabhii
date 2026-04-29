@@ -31,13 +31,14 @@
 ```yaml
 name       : Abhijeet Kumar
 role       : Full Stack Developer @ Total Holiday Options
-location   : India 🇮🇳
+experience : 3 years
+location   : New Delhi, India 🇮🇳
 passion    : Learning, Building & Educating
-focus      : Frontend · Backend · Software Architecture
+focus      : Laravel · Next.js · REST APIs · ERP Solutions
 hobbies    : Writing Tech Blogs · Open Source · YouTube
 ```
 
-> 💬 *"Passionate about learning and educating others in innovation and technology."*
+> 💬 *"Full Stack Developer specializing in Laravel and Next.js — building scalable ERP solutions and high-performance B2B/B2C platforms."*
 
 ---
 
@@ -63,18 +64,18 @@ hobbies    : Writing Tech Blogs · Open Source · YouTube
 <div align="center">
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,jquery,bootstrap,tailwind&theme=dark" />
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,php&theme=dark" />
 <br/><br/>
 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" height="48" title="CodeIgniter" />&nbsp;
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
-### 💡 Languages & Tools
-<img src="https://skillicons.dev/icons?i=java,c,cpp,git&theme=dark" />
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,aws,vercel,ubuntu,bitbucket&theme=dark" />
 
 </div>
 
