@@ -1,31 +1,74 @@
+
+
 <h1 align="center">Hi 👋, I'm Abhijeet Kumar</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/aryaabhii/aryaabhi/master/abhijeet-banner.png"> </div>
-<h3 align="center">Passionate about learning and educating others in innovation and technology.</h3>
+<h3 align="center">Full Stack Developer | Crafting Scalable Web & Mobile Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryaabhii&label=Profile%20views&color=0e75b6&style=flat" alt="aryaabhii" /> </p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aryaabhii/aryaabhi/master/abhijeet-banner.png" alt="Banner" width="100%" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryaabhii" alt="aryaabhii" /></a> </p>
-
-- 🔭 I’m currently working with [Total Holiday Options] ad fullstack developer.()
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://abhijeet-kumar.vercel.app/)
-
-- 📝 I regularly write articles on [My Blog](https://technoabhijeet84.blogspot.com/)
-
-- 💬 Ask me about **Frontend, Backend, Software Development**
-
-- 📫 How to reach me **aryaabhi84@gmail.com**
-
-- 📄 Know about my experiences [View CV](https://abhijeet-kumar.vercel.app/assets/doc/Abhijeet_Kumar_Full_Stack_Developer.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/abhi9973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhi9973" height="30" width="40" /></a><a href="https://linkedin.com/in/abhijeet-kumar-9369a41a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeet-kumar-9369a41a2/" height="30" width="40" /></a><a href="https://fb.com/abhijeet9973/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhijeet9973/" height="30" width="40" /></a><a href="https://instagram.com/abhijeet_9973/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhijeet_9973/" height="30" width="40" /></a><a href="https://www.youtube.com/c/@technoabhijeet84/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@technoabhijeet84/" height="30" width="40" /></a><a href="https://www.hackerrank.com/aryaabhi84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aryaabhi84" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18514217/abhijeet-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18514217/abhijeet-kumar" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryaabhii&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaabhii&show_icons=true&locale=en&layout=compact" alt="aryaabhii" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryaabhii&show_icons=true&locale=en" alt="aryaabhii" /></p>
+### 🚀 About Me
+
+- 🔭 **Current Focus**: Building robust ERP systems and travel tech at **Total Holiday Options**.
+- 🛠️ **Tech Stack**: Specialized in **Laravel, Next.js, React, and Node.js**.
+- 📝 **Content Creation**: I share insights on innovation and technology on [My Blog](https://technoabhijeet84.blogspot.com/).
+- 💬 **Ask Me About**: Frontend architecture, backend optimization, and the travel-tech industry.
+- 📫 **Let's Connect**: [aryaabhi84@gmail.com](mailto:aryaabhi84@gmail.com)
+
+<p align="left">
+  <a href="https://abhijeet-kumar.vercel.app/" target="_blank"><b>Check out my Portfolio 🌐</b></a> • 
+  <a href="https://abhijeet-kumar.vercel.app/assets/doc/Abhijeet_Kumar_Full_Stack_Developer.pdf" target="_blank"><b>View my CV 📄</b></a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+**Frontend & Mobile**
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+**Backend & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryaabhii&theme=radical" alt="Trophies" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaabhii&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryaabhii&show_icons=true&locale=en&theme=radical" alt="Stats" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/abhijeet-kumar-9369a41a2/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@technoabhijeet84/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18514217/abhijeet-kumar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" /></a>
+<a href="https://instagram.com/abhijeet_9973/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://github.com/aryaabhii" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+</p>
