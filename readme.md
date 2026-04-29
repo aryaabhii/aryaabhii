@@ -1,97 +1,57 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aryaabhii/aryaabhi/master/abhijeet-banner.png" width="100%" />
-
-  # ⚡ Abhijeet Kumar
-  ### Full-Stack Software Engineer | Laravel & Next.js Specialist
-  
-  <p align="center">
-    <a href="https://abhijeet-kumar.vercel.app/"><b>Portfolio</b></a> •
-    <a href="https://linkedin.com/in/abhijeet-kumar-9369a41a2/"><b>LinkedIn</b></a> •
-    <a href="mailto:aryaabhi84@gmail.com"><b>Email</b></a> •
-    <a href="https://technoabhijeet84.blogspot.com/"><b>Blog</b></a>
-  </p>
+<h1 align="center">Hi 👋, I'm Abhijeet Kumar</h1>
+<div align="center"> 
+  <img src="https://raw.githubusercontent.com/aryaabhii/aryaabhi/master/abhijeet-banner.png" width="100%"> 
 </div>
 
----
-
-### 🟢 Status
-- 🔭 **Currently**: Developing high-performance ERP & GDS solutions for the travel industry at **Total Holiday Options**.
-- 🚀 **Building**: Scalable multi-tenant architectures and B2B/B2C travel platforms.
-- 💡 **Passion**: Bridging the gap between complex backend logic and seamless UI/UX.
-
----
-
-### 💻 Technical Arsenal
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br />Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br />Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br />React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br />Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br />Tailwind
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br />MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
-      <br />Prisma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" />
-      <br />Electron
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br />AWS
-    </td>
-  </tr>
-</table>
-
----
-
-### 📈 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryaabhii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abhijeet's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaabhii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaabhii&theme=tokyonight&hide_border=true" alt="Streak Stats" width="94%" />
-</div>
-
----
-
-### 📬 Let's Collaborate
-If you have a project that needs a mix of technical precision and creative problem-solving, I'm always open to discussing new opportunities.
+<h3 align="center">Full Stack Developer | Crafting Innovation through Scalable Technology</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhijeet-kumar-9369a41a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aryaabhi84@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://abhijeet-kumar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=aryaabhii&label=Profile%20views&color=0e75b6&style=flat-square" alt="aryaabhii" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryaabhii&theme=radical&no-frame=true" alt="aryaabhii" /></a>
+</p>
+
+---
+
+### 🚀 Quick Bio
+
+- 🔭 I’m currently working as a **Full Stack Developer** at **Total Holiday Options**.
+- 👨‍💻 See my latest work: [Portfolio Website](https://abhijeet-kumar.vercel.app/)
+- 📝 I share tech insights on: [Techno Abhijeet Blog](https://technoabhijeet84.blogspot.com/)
+- 💬 Ask me about: **Next.js, Laravel, ERP Systems, and SaaS Architecture**
+- 📫 Reach me at: **aryaabhi84@gmail.com**
+- 📄 My Professional Journey: [View CV](https://abhijeet-kumar.vercel.app/assets/doc/Abhijeet_Kumar_Full_Stack_Developer.pdf)
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" /><br>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,mongodb,prisma" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,git,electron,aws,postman" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaabhii&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryaabhii&show_icons=true&locale=en&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryaabhii&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/abhijeet-kumar-9369a41a2/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.youtube.com/c/@technoabhijeet84/" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/18514217/abhijeet-kumar" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+<a href="https://codepen.io/abhi9973" target="blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+<a href="https://instagram.com/abhijeet_9973/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
