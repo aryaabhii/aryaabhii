@@ -124,7 +124,7 @@ hobbies    : Writing Tech Blogs · Open Source · YouTube
 
 | 💼 Portfolio | 📄 Resume | ✍️ Blog |
 |:---:|:---:|:---:|
-| [abhijeet-kumar.vercel.app](https://abhijeet-kumar.vercel.app/) | [View CV](https://abhijeet-kumar.vercel.app/assets/doc/Abhijeet_Kumar_Full_Stack_Developer.pdf) | [technoabhijeet84.blogspot.com](https://technoabhijeet84.blogspot.com/) |
+| [abhijeet-kumar.vercel.app](https://abhijeet-kumar.vercel.app/) | [View CV](https://abhijeet-kumar.vercel.app/assets/doc/abhijeet_cv.pdf) | [technoabhijeet84.blogspot.com](https://technoabhijeet84.blogspot.com/) |
 
 </div>
 
